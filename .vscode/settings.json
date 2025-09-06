@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "double_list.h": "c",
-        "unity.h": "c"
+        "unity.h": "c",
+        "string.h": "c",
+        "single_list.h": "c"
     }
 }
